@@ -1,2 +1,2 @@
 # 30_js_projects
-30 JavaScript projects for Begineer
+30 JavaScript projects for Beginner
